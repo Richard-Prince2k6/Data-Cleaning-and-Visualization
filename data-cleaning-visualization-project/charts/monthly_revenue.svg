@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Monthly revenue after cleaning">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="30" font-family="Arial" font-size="20" font-weight="bold">Monthly revenue after cleaning</text>
+<text x="180" y="64.0" text-anchor="end" font-family="Arial" font-size="13">2024-01</text>
+<rect x="190" y="48.0" width="367.9" height="22" rx="4" fill="#276EF1"/>
+<text x="565.9" y="64.0" font-family="Arial" font-size="12">6,257</text>
+<text x="180" y="105.7" text-anchor="end" font-family="Arial" font-size="13">2024-02</text>
+<rect x="190" y="89.7" width="491.1" height="22" rx="4" fill="#276EF1"/>
+<text x="689.1" y="105.7" font-family="Arial" font-size="12">8,350</text>
+<text x="180" y="147.3" text-anchor="end" font-family="Arial" font-size="13">2024-03</text>
+<rect x="190" y="131.3" width="520.0" height="22" rx="4" fill="#276EF1"/>
+<text x="718.0" y="147.3" font-family="Arial" font-size="12">8,843</text>
+<text x="180" y="189.0" text-anchor="end" font-family="Arial" font-size="13">2024-04</text>
+<rect x="190" y="173.0" width="319.6" height="22" rx="4" fill="#276EF1"/>
+<text x="517.6" y="189.0" font-family="Arial" font-size="12">5,435</text>
+<text x="180" y="230.7" text-anchor="end" font-family="Arial" font-size="13">2024-05</text>
+<rect x="190" y="214.7" width="502.1" height="22" rx="4" fill="#276EF1"/>
+<text x="700.1" y="230.7" font-family="Arial" font-size="12">8,538</text>
+<text x="180" y="272.3" text-anchor="end" font-family="Arial" font-size="13">2024-06</text>
+<rect x="190" y="256.3" width="377.7" height="22" rx="4" fill="#276EF1"/>
+<text x="575.7" y="272.3" font-family="Arial" font-size="12">6,423</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Revenue by product category">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="30" font-family="Arial" font-size="20" font-weight="bold">Revenue by product category</text>
+<text x="180" y="64.0" text-anchor="end" font-family="Arial" font-size="13">Home</text>
+<rect x="190" y="48.0" width="520.0" height="22" rx="4" fill="#276EF1"/>
+<text x="718.0" y="64.0" font-family="Arial" font-size="12">13,735</text>
+<text x="180" y="126.5" text-anchor="end" font-family="Arial" font-size="13">Accessories</text>
+<rect x="190" y="110.5" width="518.7" height="22" rx="4" fill="#276EF1"/>
+<text x="716.7" y="126.5" font-family="Arial" font-size="12">13,700</text>
+<text x="180" y="189.0" text-anchor="end" font-family="Arial" font-size="13">Electronics</text>
+<rect x="190" y="173.0" width="348.0" height="22" rx="4" fill="#276EF1"/>
+<text x="546.0" y="189.0" font-family="Arial" font-size="12">9,193</text>
+<text x="180" y="251.5" text-anchor="end" font-family="Arial" font-size="13">Books</text>
+<rect x="190" y="235.5" width="273.2" height="22" rx="4" fill="#276EF1"/>
+<text x="471.2" y="251.5" font-family="Arial" font-size="12">7,217</text>
+</svg>
